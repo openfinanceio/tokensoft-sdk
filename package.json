@@ -1,5 +1,5 @@
 {
-  "name": "tokensoft-sdk",
+  "name": "@openfinanceio/tokensoft-sdk",
   "version": "0.0.5",
   "description": "![Logo](./docs/img/logo.png)",
   "main": "build/index.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tokensoft/tokensoft-sdk.git"
+    "url": "git+https://github.com/openfinanceio/tokensoft-sdk.git"
   },
   "author": "Tokensoft Inc.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tokensoft/tokensoft-sdk/issues"
+    "url": "https://github.com/openfinanceio/tokensoft-sdk/issues"
   },
-  "homepage": "https://github.com/tokensoft/tokensoft-sdk#readme",
+  "homepage": "https://github.com/openfinanceio/tokensoft-sdk#readme",
   "devDependencies": {
     "@types/jest": "^26.0.14",
     "@types/node": "^14.11.2",
